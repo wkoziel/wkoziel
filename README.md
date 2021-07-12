@@ -1,10 +1,12 @@
 # Hi I'm Wojtek 👋
 Welcome to my profile! I'm Computer Science student and aspiring Front-end Developer from Poland 💻
 
-## My skills include
+## 🛠 Technologies and tools
 <img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/wkoziel/wkoziel/main/assets/html.png" width="70" height="40" />
+<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/wkoziel/wkoziel/main/assets/css3.png" width="70" height="40" />
+<img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/wkoziel/wkoziel/main/assets/js.png" width="70" height="40" />
 
-## Currently learning
+## 📖 Currently learning
 ..
 
 <!-- ## Bio
