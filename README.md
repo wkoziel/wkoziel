@@ -1,10 +1,8 @@
 # Hi I'm Wojtek 👋
 Welcome to my profile! I'm Computer Science student and aspiring Front-end Developer from Poland 💻
 
-## 🛠 Technologies and tools
-<img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/wkoziel/wkoziel/main/assets/html.png" width="70" height="40" />
-<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/wkoziel/wkoziel/main/assets/css3.png" width="70" height="40" />
-<img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/wkoziel/wkoziel/main/assets/js.png" width="70" height="40" />
+## � Technologies and tools
+<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="30px" height="30px"></a>
 
 ## 📖 Currently learning
 ..
