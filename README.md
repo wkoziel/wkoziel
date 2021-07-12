@@ -1,24 +1,23 @@
-# Hi I'm Wojtek 👋
-Welcome to my profile! I'm Computer Science student and aspiring Front-end Developer from Poland 💻
 
-## Technologies and tools
-<a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
-<a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
-<a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="40px" height="40px"></a>
-<a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px"></a>
-<a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a>
-## Currently learning
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px"></a>
-<a href="https://angular.io/" title="Angular"><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="40px" height="40px"></a>
-<!-- ## Bio
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+
+# Hi I'm Wojtek <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="30"/>
+
+Welcome to my profile! I'm **Computer Science** student and aspiring **Front-end Developer** from Poland 💻
+
+- ✌ Feel free to check my projects
+- 🌱 I’m currently learning React and Angular
+- 👀 Looking for student internship
+- 👯 My favourite team [@PiotrHadam](https://github.com/PiotrHadam), [@23tania](https://github.com/23tania), [@xlimiii](https://github.com/xlimiii)
+
+## I am codeing with: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?&style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+
+## I am currently learning:
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](	https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=white)
+![Router](https://img.shields.io/badge/React_Router-000?style=for-the-badge&logo=react-router)
