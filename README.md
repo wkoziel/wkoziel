@@ -23,8 +23,6 @@ Welcome to my profile! I'm **Computer Science** student and aspiring **Front-end
 ![Router](https://img.shields.io/badge/React_Router-000?style=for-the-badge&logo=react-router)
 
 ## My GitHub Stats
-<div style="display: flex; justify-content: center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wkoziel&show_icons=true&locale=en&layout=compact" alt="wkoziel" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wkoziel&show_icons=true&locale=en" alt="wkoziel" />
-  
-</div>
+<img align="left" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=wkoziel&" alt="wkoziel" />
+<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=wkoziel&show_icons=true&locale=en" alt="wkoziel" />
+
