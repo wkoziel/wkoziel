@@ -21,3 +21,10 @@ Welcome to my profile! I'm **Computer Science** student and aspiring **Front-end
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](	https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=white)
 ![Router](https://img.shields.io/badge/React_Router-000?style=for-the-badge&logo=react-router)
+
+## My GitHub Stats
+<div style="display: flex; justify-content: center">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wkoziel&show_icons=true&locale=en&layout=compact" alt="wkoziel" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wkoziel&show_icons=true&locale=en" alt="wkoziel" />
+  
+</div>
