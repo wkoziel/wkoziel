@@ -5,7 +5,7 @@
 Welcome to my profile! I'm **Computer Science** student and aspiring **Front-end Developer** from Poland 💻
 
 - ✌ Feel free to check my projects
-- 🌱 I’m currently learning React and Angular
+- 🌱 I’m currently learning React
 - 👀 Looking for student internship
 - 👯 My favourite team [@PiotrHadam](https://github.com/PiotrHadam), [@23tania](https://github.com/23tania), [@xlimiii](https://github.com/xlimiii)
 
@@ -13,9 +13,9 @@ Welcome to my profile! I'm **Computer Science** student and aspiring **Front-end
 ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-000?&style=for-the-badge&logo=css3)
 ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+![C#](https://img.shields.io/badge/c%23-000?style=for-the-badge&logo=c-sharp)
+![LaTeX](https://img.shields.io/badge/latex-000?style=for-the-badge&logo=latex&logoColor=white)
 
 ## I am currently learning:
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
