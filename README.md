@@ -15,7 +15,6 @@ Welcome to my profile! I'm **Computer Science** student and aspiring **Front-end
 ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/c%23-000?style=for-the-badge&logo=c-sharp)
-![LaTeX](https://img.shields.io/badge/latex-000?style=for-the-badge&logo=latex&logoColor=white)
 
 ## I am currently learning:
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
