@@ -6,7 +6,6 @@ Welcome to my profile! I'm **Computer Science** student and aspiring **Front-end
 
 - ✌ Feel free to check my projects
 - 🌱 I’m currently learning React
-- 👀 Looking for student internship
 - 👯 My favourite team [@PiotrHadam](https://github.com/PiotrHadam), [@23tania](https://github.com/23tania), [@xlimiii](https://github.com/xlimiii)
 
 ## I am codeing with: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
