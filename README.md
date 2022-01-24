@@ -20,7 +20,7 @@ Welcome to my profile! I'm **Computer Science** student and **Front-end Develope
 
 ## I am currently learning:
 ![Redux](	https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma&logoColor=white)
 
 ## My GitHub Stats
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkoziel&" alt="wkoziel" />
