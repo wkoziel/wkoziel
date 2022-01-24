@@ -2,7 +2,7 @@
 
 # Hi I'm Wojtek <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="30"/>
 
-Welcome to my profile! I'm **Computer Science** student and aspiring **Front-end Developer** from Poland 💻
+Welcome to my profile! I'm **Computer Science** student and **Front-end Developer** from Poland 💻
 
 - ✌ Feel free to check my projects
 - 🌱 I’m currently learning React
