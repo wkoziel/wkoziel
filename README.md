@@ -5,7 +5,8 @@
 Welcome to my profile! I'm **Computer Science** student and **Front-end Developer** from Poland 💻
 
 - ✌ Feel free to check my projects
-- 🌱 I’m currently learning React
+- 💻 I'm working with React
+- 🌱 I’m currently learning Redux
 - 👯 My favourite team [@PiotrHadam](https://github.com/PiotrHadam), [@23tania](https://github.com/23tania), [@xlimiii](https://github.com/xlimiii)
 
 ## I am codeing with: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
