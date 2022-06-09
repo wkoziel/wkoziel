@@ -15,12 +15,13 @@ Welcome to my profile! I'm **Computer Science** student and **Front-end Develope
 ![CSS](https://img.shields.io/badge/CSS3-000?&style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-000.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](	https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ## I am currently learning:
-![Redux](	https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
+![Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## My GitHub Stats
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkoziel&" alt="wkoziel" />
